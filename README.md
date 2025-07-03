@@ -38,5 +38,5 @@ I was responsible for and contributed to the following components:
 ## 🛠️ Technologies Used
 - ROS (Robot Operating System)
 - Python & C++
-- OpenCV, TensorFlow/PyTorch (for DL detection)
+- OpenCV, PyTorch (for DL detection)
 - RealSense SDK, ArUco, LiDAR, Phidgets Motor Controller
