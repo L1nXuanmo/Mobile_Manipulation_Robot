@@ -1,0 +1,13 @@
+build/
+log/
+install/
+bag/
+.*
+__pycache__/
+*.pyc
+rosbag*
+bags/
+.*
+__pycache__/
+**/__pycache__/
+*.pyc
