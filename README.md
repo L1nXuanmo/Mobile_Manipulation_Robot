@@ -1,4 +1,4 @@
-# 🤖 Autonomous Mobile Manipulation System – Group Project Fork
+# 🚚 Autonomous Mobile Manipulation System – Group Project Fork
 
 A fork of a collaborative robotics project focused on mobile manipulation, perception, and task execution in a semi-structured environment.  
 I was responsible for and contributed to the following components:
